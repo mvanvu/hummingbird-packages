@@ -1,4 +1,4 @@
-# Hummingbird Packages (UNDER CONSTRUCTION)
+# Hummingbird CMS Packages
 List all the available plugin packages for the Hummingbird CMS https://github.com/mvanvu/hummingbird-cms
 
 ## Official plugin
