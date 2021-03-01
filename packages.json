@@ -1,5 +1,6 @@
 {
   "https://raw.githubusercontent.com/mvanvu/hummingbird-cms-backup/master/src/install-channel.json": "Backup (Official)",
+  "https://raw.githubusercontent.com/mvanvu/hummingbird-cms-chatsample/master/src/install-channel.json": "ChatSample (Official)",
   "https://raw.githubusercontent.com/mvanvu/hummingbird-cms-post/master/src/install-channel.json": "Post (Official)",
   "https://raw.githubusercontent.com/mvanvu/hummingbird-cms-sociallogin/master/src/install-channel.json": "Social Login (Official)"
 }
